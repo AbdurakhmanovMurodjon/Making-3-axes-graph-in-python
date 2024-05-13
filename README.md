@@ -10,5 +10,5 @@
 
 **result_3axis.png** > shows the last result 
 
-**!!! Because of copyright, I have not covered name of river that this all data belongs**
+**!!! Because of copyright, I have not shown name of river that this all data belongs**
 
