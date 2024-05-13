@@ -1,12 +1,14 @@
-I have uploaded 3 files to check it out ! 
+**I have uploaded 5 files to check the code out ! **
 
-temp.csv > contains temprature data
+**3-axis-graph.ipynb** > this file contains code with guide inside it 
 
-water_discharge.csv > contains water discharge data in m^3/sec
+**temp.csv** > contains temprature data
 
-water_level.csv > shows how high water level on a day
+**water_discharge.csv** > contains water discharge data in m^3/sec
 
-result_3axis.png > shows the last result 
+**water_level.csv** > shows how high water level on a day
 
-!!! Because of copyright, I have not covered name of river that this all data belongs
+**result_3axis.png** > shows the last result 
+
+**!!! Because of copyright, I have not covered name of river that this all data belongs**
 
